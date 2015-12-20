@@ -12,7 +12,7 @@
   "dependencies": {
     "async.eachoflimit": "0.4.3",
     "async.util.createtester": "0.4.3",
-    "async.util.identity": "0.4.3",
+    "async.util.identity": "0.5.0",
     "async.util.tobool": "0.4.3"
   },
   "keywords": [
